@@ -22,7 +22,7 @@ Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto* 
 
                          
 ## Descripción narrativa
-Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Todas ellas actividades que además de consumir gran cantidad de tiempo a lo largo de una carrera académica, son prácticas que reflejan pertenencias, disposiciones y fronteras teórico-metodológicas, conformando parte importante de una identidad académica. 
+Biblio-retratos es una [aplicación web]( https://biblioretratos.ibero.mx/) que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Todas ellas actividades que además de consumir gran cantidad de tiempo a lo largo de una carrera académica, son prácticas que reflejan pertenencias, disposiciones y fronteras teórico-metodológicas, conformando parte importante de una identidad académica. 
 Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 recibió financiamiento la [Dirección de Investigación y Posgrado](https://investigacion.ibero.mx/) de la [Universidad Iberoamericana, Ciudad de México](https://ibero.mx/)
 
 ## Descripción operativa
@@ -69,7 +69,7 @@ Fase 2
 - Servidor Apache libre de vulnerabilidades
 
 ## Guía de registro
-1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
+1. Entre al sitio de Biblio-retratos (https://biblioretratos.ibero.mx/)
 2. La primera vez deberá obtener su usuario introduciendo dando click al botón **`Regístrate aquí`**
 <img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
 
