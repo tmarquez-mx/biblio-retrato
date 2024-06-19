@@ -12,9 +12,10 @@
 2. Click in "Create a new private key
 3. Fill the information as it is shown in the image and finish by clicking in Save key
 
-   ![3431de2406c0e8025231421c6647ca7e.png](./3431de2406c0e8025231421c6647ca7e.png)
+﻿<img width="280" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/4e88daae-af3f-4105-901e-83dd5149206d">
+
 
    4. Copy and paste alphanumeric code created in the user setting of Biblio-retratos. This is only done once.
 
   
-   ![d7fadef06b6faae8d9cb17ee96b6a121.png](./d7fadef06b6faae8d9cb17ee96b6a121.png)   
+ ﻿<img width="426" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/47b3a2fd-e0e9-44c9-a437-098fb8313510">
