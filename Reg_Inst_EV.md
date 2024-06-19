@@ -15,6 +15,6 @@
    ![3431de2406c0e8025231421c6647ca7e.png](./3431de2406c0e8025231421c6647ca7e.png)
 
    4. Copy and paste alphanumeric code created in the user setting of Biblio-retratos. This is only done once.
-   5. 
+
   
    ![d7fadef06b6faae8d9cb17ee96b6a121.png](./d7fadef06b6faae8d9cb17ee96b6a121.png)   
